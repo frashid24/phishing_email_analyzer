@@ -70,14 +70,14 @@ print(summary)
 
 ## Files
 
-- `phishing_analyzer_v2.py` — the `PhishingAnalyzer` and `ReportGenerator` classes
+- `phishinganalyzer_v2.py` — the `PhishingAnalyzer` and `ReportGenerator` classes
 - `phishing_email_1.txt`, `phishing_email_2.txt` — generated sample phishing emails
 - `legit_email_1.txt`, `legit_email_2.txt` — generated sample legitimate emails
 
 ## How to run
 
 ```bash
-python3 phishing_analyzer_v2.py
+python3 phishinganalyzer_v2.py
 ```
 
 You'll need your own Anthropic API key — set it as an environment variable, or if running in Colab like I did, store it in Colab's Secrets manager as `ANTHROPIC_API_KEY`.
