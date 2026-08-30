@@ -1,0 +1,12 @@
+From: GitHub <noreply@github.com>
+Reply-To: noreply@github.com
+To: fern@example.com
+Subject: [ssh_triage_project] New star on your repository
+
+Hi frashid24,
+
+Someone just starred your repository ssh_triage_project.
+
+View it here: https://github.com/frashid24/ssh_triage_project
+
+Thanks for using GitHub.

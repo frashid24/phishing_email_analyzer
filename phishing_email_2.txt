@@ -1,0 +1,17 @@
+From: IT Helpdesk <it-support@company-portal-help.com>
+Reply-To: admin@urgent-reset-now.info
+To: fern@example.com
+Subject: Action Required: Password Expires Today
+
+Hello,
+
+Your company password expires today. To avoid being locked out of your
+account, please reset your password immediately using the secure link
+below.
+
+Reset your password here: https://microsoft.com/password-reset
+
+This must be completed within the next few hours or your account access
+will be revoked.
+
+IT Support

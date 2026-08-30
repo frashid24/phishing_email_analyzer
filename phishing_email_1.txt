@@ -1,0 +1,17 @@
+From: PayPal Security <security@paypa1-support.com>
+Reply-To: no-reply@account-verify-secure.net
+To: fern@example.com
+Subject: URGENT: Your account will be suspended in 24 hours
+
+Dear Valued Customer,
+
+We have detected unusual activity on your PayPal account. Your account
+will be suspended within 24 hours unless you verify your information
+immediately.
+
+Click here to verify your account now: https://paypal.com-secure-login.ru/verify
+
+Failure to act immediately will result in permanent account suspension
+and loss of funds. This is your final notice.
+
+PayPal Security Team
